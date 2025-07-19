@@ -19,12 +19,12 @@
     <repository>
       <id>nexusRepo</id>
       <name>Releases</name>
-      <url>http://172.31.84.4:8081/repository/awsdevopsproject/</url>
+      <url>http://18.207.223.28:8081/repository/awsdevopsproject/</url>
     </repository>
     <snapshotRepository>
       <id>nexusRepo</id>
       <name>Snapshot</name>
-      <url>http://172.31.84.4:8081/repository/awsdevopsproject-snapshots/</url>
+      <url>http://18.207.223.28:8081/repository/awsdevopsproject-snapshots/</url>
     </snapshotRepository>
   </distributionManagement>
   <build>
