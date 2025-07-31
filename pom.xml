@@ -15,7 +15,7 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <distributionManagement>
+  <!-- <distributionManagement>
     <repository>
       <id>nexusRepo</id>
       <name>Releases</name>
@@ -26,7 +26,7 @@
       <name>Snapshot</name>
       <url>http://18.207.223.28:8081/repository/awsdevopsproject-snapshots/</url>
     </snapshotRepository>
-  </distributionManagement>
+  </distributionManagement> -->
   <build>
     <finalName>awsdevopsproject</finalName>
   </build>
